@@ -1,2 +1,2 @@
-# Currency Calculator
+# Currency Converter
  
